@@ -1,0 +1,37 @@
+[
+  {
+    "titulo": "El laberinto de la soledad",
+    "autor": "Octavio Paz",
+    "isbn": "978-9681609149",
+    "fechaPublicacion": "1950-01-01T00:00:00Z",
+    "disponible": true
+  },
+  {
+    "titulo": "Rayuela",
+    "autor": "Julio Cortázar",
+    "isbn": "978-8437604169",
+    "fechaPublicacion": "1963-06-28T00:00:00Z",
+    "disponible": false
+  },
+  {
+    "titulo": "La casa de los espíritus",
+    "autor": "Isabel Allende",
+    "isbn": "978-8401419757",
+    "fechaPublicacion": "1982-06-01T00:00:00Z",
+    "disponible": true
+  },
+  {
+    "titulo": "Ficciones",
+    "autor": "Jorge Luis Borges",
+    "isbn": "978-8420471822",
+    "fechaPublicacion": "1944-01-01T00:00:00Z",
+    "disponible": false
+  },
+  {
+    "titulo": "Pedro Páramo",
+    "autor": "Juan Rulfo",
+    "isbn": "978-9681604083",
+    "fechaPublicacion": "1955-01-01T00:00:00Z",
+    "disponible": true
+  }
+]
