@@ -9,6 +9,6 @@
     "moduleResolution": "node"
   },
   "include": [
-    "./index.ts"
+    "./src/index.ts"
   ]
 }
